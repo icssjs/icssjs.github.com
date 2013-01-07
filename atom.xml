@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://icssjs.github.com/atom.xml" rel="self"/>
-  <link href="http://icssjs.github.com/"/>
-  <updated>2013-01-07T10:34:52+08:00</updated>
-  <id>http://icssjs.github.com/</id>
+  <title><![CDATA[绣财的博客]]></title>
+  <link href="http://blog.webhtml.org/atom.xml" rel="self"/>
+  <link href="http://blog.webhtml.org/"/>
+  <updated>2013-01-07T10:47:12+08:00</updated>
+  <id>http://blog.webhtml.org/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     

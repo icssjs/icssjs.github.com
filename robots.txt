@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://icssjs.github.com/sitemap.xml 
+Sitemap: http://blog.webhtml.org/sitemap.xml 
