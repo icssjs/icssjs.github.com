@@ -1,0 +1,8 @@
+---
+layout: post
+title: "第一篇博客"
+date: 2013-01-10 08:57
+comments: true
+categories: my-life
+---
+## 用github架设的第一个博客 试试吧
