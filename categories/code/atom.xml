@@ -4,7 +4,7 @@
   <title><![CDATA[Category: code | 绣财的博客]]></title>
   <link href="http://blog.webhtml.org/categories/code/atom.xml" rel="self"/>
   <link href="http://blog.webhtml.org/"/>
-  <updated>2013-02-01T11:45:59+08:00</updated>
+  <updated>2013-02-01T11:50:56+08:00</updated>
   <id>http://blog.webhtml.org/</id>
   <author>
     <name><![CDATA[绣财]]></name>
@@ -19,6 +19,17 @@
     <updated>2013-01-24T14:18:00+08:00</updated>
     <id>http://blog.webhtml.org/2013/01/24/google-chart-table</id>
     <content type="html"><![CDATA[<h3>插入github 的gist 不成功，不为什么他们的ID都是数字，我的这个ID <code>aedf14464716574391b0</code> 这么长</h3>
+
+<p><div><script src='https://gist.github.com/996818.js'></script>
+<noscript><pre><code>@@ -590,7 +590,7 @@ class SpritesTest &lt; Test::Unit::TestCase
+  it &quot;should generate a sprite from nested folders&quot; do
+    css = render &lt;&lt;-SCSS
+-     @import &quot;nested/*.png&quot;;
++     @import &quot;nested/**/*.png&quot;;
+      @include all-nested-sprites;
+    SCSS
+    assert_correct css, &lt;&lt;-CSS</code></pre></noscript></div>
+</p>
 ]]></content>
   </entry>
   
