@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[绣财的博客]]></title>
-  <link href="http://blog.webhtml.org/atom.xml" rel="self"/>
+  <title><![CDATA[Category: wordpess | 绣财的博客]]></title>
+  <link href="http://blog.webhtml.org/categories/wordpess/atom.xml" rel="self"/>
   <link href="http://blog.webhtml.org/"/>
   <updated>2013-02-01T11:43:15+08:00</updated>
   <id>http://blog.webhtml.org/</id>
@@ -25,24 +25,6 @@
 <p> 推荐位方面，用的一个叫 [meta-box]:http://wordpress.org/extend/plugins/meta-box/ 的插件 可以在文章发布页 定义 各种meta 这样就可以完全满足下载的并不多的推荐位</p>
 
 <p> 下载嘛！ 看想搞成 [异次元]:http://www.iplaysoft.com/ 那样</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[使用 google chart 展示表格]]></title>
-    <link href="http://blog.webhtml.org/2013/01/24/google-chart-table/"/>
-    <updated>2013-01-24T14:18:00+08:00</updated>
-    <id>http://blog.webhtml.org/2013/01/24/google-chart-table</id>
-    <content type="html"><![CDATA[<h3>插入github 的gist 不成功，不为什么他们的ID都是数字，我的这个ID <code>aedf14464716574391b0</code> 这么长</h3>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第一篇博客]]></title>
-    <link href="http://blog.webhtml.org/2013/01/10/new-post/"/>
-    <updated>2013-01-10T08:57:00+08:00</updated>
-    <id>http://blog.webhtml.org/2013/01/10/new-post</id>
-    <content type="html"><![CDATA[<h2>用github架设的第一个博客 试试吧</h2>
 ]]></content>
   </entry>
   
